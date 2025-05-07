@@ -4,7 +4,7 @@ This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**,
 
 ## 🚀 Live Demo
 
-👉 [View Website](https://FayzulloDev.github.io/E-Commerce-Project)
+👉 [View Website](https://devfayzullo.github.io/E-Commerce-Project/)
 
 
 ---
@@ -36,7 +36,7 @@ This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**,
 ## 👤 Author
 
 **FayzulloDev**  
-📫 GitHub: [@fayzullodev](https://github.com/fayzullodev)
+📫 GitHub: [@FayzulloDev](https://github.com/FayzulloDev)
 
 ---
 
