@@ -35,7 +35,7 @@ This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**,
 
 ## 👤 Author
 
-**FayzulloDev**  
+**DevFayzullo**  
 📫 GitHub: [@FayzulloDev](https://github.com/FayzulloDev)
 
 ---
