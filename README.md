@@ -6,13 +6,12 @@ This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**,
 
 👉 [View Website](https://devfayzullo.github.io/E-Commerce-Project/)
 
-
 ---
 
 ## 🛠️ Technologies Used
 
-- 🌐 HTML5  
-- 🎨 CSS3 (Responsive design with Flexbox/Grid)  
+- 🌐 HTML5
+- 🎨 CSS3 (Responsive design with Flexbox/Grid)
 - ⚙️ JavaScript (Vanilla JS, DOM manipulation)
 
 ---
@@ -26,10 +25,20 @@ This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**,
 - 🧾 Real-time cart total calculation
 - 📦 Order/Checkout button (front-end only)
 
-
 ---
 
 ## 📁 Project Structure
+
+E-Commerce-Project/
+├── img             # Project images
+├── about.html      # About page
+├── blog.html       # Blog Page
+├── cart.html       # Cart Page
+├── contact.html    # Contact Page
+├── index.html      # Main Page
+├── style.css       # UI styling
+├── script.js       # Some functions
+└── README.md       # Project description
 
 ---
 
