@@ -2,10 +2,6 @@
 
 This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**, and **Vanilla JavaScript**. The project simulates a modern online shopping experience where users can browse products, add items to the cart, and manage their orders on the front-end.
 
-## 🚀 Live Demo
-
-👉 [View Website](https://devfayzullo.github.io/E-Commerce-Project/)
-
 ---
 
 ## 🛠️ Technologies Used
@@ -27,8 +23,15 @@ This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**,
 
 ---
 
+## 📸 Preview
+
+![screenshot](./img/screnshoot.png)
+
+---
+
 ## 📁 Project Structure
 
+```
 E-Commerce-Project/
 ├── img             # Project images
 ├── about.html      # About page
@@ -36,19 +39,31 @@ E-Commerce-Project/
 ├── cart.html       # Cart Page
 ├── contact.html    # Contact Page
 ├── index.html      # Main Page
-├── style.css       # UI styling
+├── README.md       # Project description
 ├── script.js       # Some functions
-└── README.md       # Project description
+├── shop.html       # Shop Page
+├── sproduct.html   # Product Page
+└── style.css       # UI styling
+```
+
+---
+
+## 🚀 Live Demo
+
+👉 [View Website](https://devfayzullo.github.io/E-Commerce-Project/)
 
 ---
 
 ## 👤 Author
 
-**DevFayzullo**  
-📫 GitHub: [@DevFayzullo](https://github.com/DevFayzullo)
+📌 Developed by**DevFayzullo**
 
 ---
 
 ## 📄 License
 
 This project was built for educational and portfolio purposes only. Please contact the author if you'd like to use or adapt it commercially.
+
+---
+
+Happy coding! 🚀
