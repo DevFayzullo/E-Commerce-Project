@@ -1,5 +1,7 @@
 # 🛒 E-Commerce Project
 
+[🇰🇷 한국어 README](./README.kr.md)
+
 This is a fully responsive **E-Commerce Website** built using **HTML**, **CSS**, and **Vanilla JavaScript**. The project simulates a modern online shopping experience where users can browse products, add items to the cart, and manage their orders on the front-end.
 
 ---
